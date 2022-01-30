@@ -26,8 +26,36 @@ using VacationManager.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 4 "D:\C#-Курсова\VacationManager\Views\_ViewImports.cshtml"
+using Microsoft.AspNetCore.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 5 "D:\C#-Курсова\VacationManager\Views\_ViewImports.cshtml"
+using VacationManager.Areas.Identity;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 6 "D:\C#-Курсова\VacationManager\Views\_ViewImports.cshtml"
+using VacationManager.Areas.Identity.Pages;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 7 "D:\C#-Курсова\VacationManager\Views\_ViewImports.cshtml"
+using VacationManager.Areas.Identity.Data;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"99464617055fdb505bb0bb7fd91f9b14f7b0d030", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3b593b3f0e5abb58450caa2dbe88a3b293178197", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d552c1f318a885bbfa4509059b5eedb6c733487c", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
