@@ -10,7 +10,7 @@ using VacationManager.Data;
 namespace VacationManager.Migrations
 {
     [DbContext(typeof(LoginContext))]
-    [Migration("20220130132307_initial")]
+    [Migration("20220131214710_initial")]
     partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
